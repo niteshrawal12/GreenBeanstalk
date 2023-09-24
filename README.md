@@ -9,12 +9,10 @@ Welcome to GreenBeanstalk, your go-to Java Spring project for cultivating Spring
 
 - **Simplified Spring Setup:** GreenBeanstalk offers a hassle-free setup for Spring projects, allowing you to focus on writing code rather than configuring your environment.
 
-- **Comprehensive Documentation:** We provide extensive documentation and tutorials to guide you through the Spring framework and best practices.
+- **Comprehensive Documentation:** We provide extensive documentation to guide you through the Spring framework and best practices.
 
 - **Ready for Production:** Our project is designed to help you build production-ready applications, ensuring stability and scalability.
-
-- **Community-Driven:** Join our vibrant community of Spring enthusiasts, share your knowledge, and get help from experienced developers.
-
+  
 ## Getting Started
 
 Follow these steps to get started with GreenBeanstalk:
