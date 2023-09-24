@@ -1,5 +1,5 @@
 # GreenBeanstalk
-![GreenBeanstalk Logo](gbt.jpeg)
+![GreenBeanstalk Logo](gbt.jpg)
 
 ## Growing Java Spring Beans Like a Pro
 
